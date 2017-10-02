@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?><_ROOT_  DataSource="contactew" Scope="LOCAL" Role="RAW" Library="HIREHERO" Table="CONTACTEW"
+ NCols="83" NObs="64549" NBytes="252707840" Segment="" DataSourceRole="RAW" OutputType="VIEW"
+ ForceRun="N" ComputeStatistics="N" DataSelection="DATASOURCE" NewTable="" MetaAdvisor="BASIC"
+ ApplyIntervalLevelLowerLimit="Y" IntervalLowerLimit="20" ApplyMaxPercentMissing="Y"
+ MaxPercentMissing="50" ApplyMaxClassLevels="Y" MaxClassLevels="20" IdentifyEmptyColumns="Y"
+ VariableValidation="STRICT" NewVariableRole="REJECT" DropMapVariables="Y" DsId="contactew"
+ DsSampleName="" DsSampleSizeType="" DsSampleSize="" DsCreatedBy="Nikhil" DsCreateDate="1813069993.8"
+ DsModifiedBy="Nikhil" DsModifyDate="1813069993.8" DsScope="LOCAL" Sample="D" SampleSizeType="PERCENT"
+ SampleSizePercent="20" SampleSizeObs="10000" DBPassThrough="Y" RunAction="Train"
+ Component="DataSource" RawCreateTime="1813070049.9" CreateTime="14JUN2017:14:34:10"
+ Description="" Data="HIREHERO.CONTACTEW" CMeta="WORK.M2UIBJNR" RunId="a8063126-9940-42cb-adca-98d6082cad7e"
+ RawLastTimeRun="1813070092.9" RawRunTime="16.207999945" LastTimeRun="14JUN2017:14:34:53"
+ RunTime="0 Hr. 0 Min. 16.21 Sec.">
+<VARIABLEPROPERTIES/>
+<FILEPROPERTIES/>
+</_ROOT_>

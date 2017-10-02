@@ -1,0 +1,42 @@
+*------------------------------------------------------------*
+User:                Nikhil
+Date:                June 14, 2017
+Time:                14:38:36
+*------------------------------------------------------------*
+* Training Output
+*------------------------------------------------------------*
+ 
+ 
+ 
+ 
+Variable Summary
+ 
+          Measurement    Frequency
+ Role        Level         Count
+ 
+INPUT      INTERVAL          22
+INPUT      NOMINAL           37
+TEXT       NOMINAL           12
+TIMEID     INTERVAL          12
+ 
+ 
+ 
+ 
+Partition Summary
+ 
+                                     Number of
+Type             Data Set          Observations
+ 
+DATA        EMWS1.Ids_DATA             64549
+TRAIN       EMWS1.Part_TRAIN           32275
+VALIDATE    EMWS1.Part_VALIDATE        32274
+
+
+*------------------------------------------------------------*
+* Score Output
+*------------------------------------------------------------*
+
+
+*------------------------------------------------------------*
+* Report Output
+*------------------------------------------------------------*
